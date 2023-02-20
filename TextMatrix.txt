@@ -1,0 +1,5 @@
+Ingrese en la siguiente linea el numero de filas deseado:
+
+
+La matriz resultante sera:
+
